@@ -14,7 +14,7 @@ Pode acessar o link abaixo para acessar o dashboard:
  - 🔗 [Dashboard - Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiODkxNmRiMTktMjI3MC00MTRiLTkxNjMtNTA3YTZjYjI3NTQ1IiwidCI6ImM5YWFjMGZmLWQ1Y2MtNDRhMi05NjIyLWNkMmVlZmQ5Zjk4MiJ9)
 
 ## Fonte dos Dados
-Os dados foram coletados do site ['Airline Quality - Skytrax'](https://www.airlinequality.com/airline-reviews/british-airways/page/1/?sortby=post_date%3ADesc&pagesize=100), utilizando as bibliotecas BeautifulSoup e Selenium para automatizar a tarefa. 
+Os dados foram coletados do site ['Airline Quality - Skytrax'](https://www.airlinequality.com/airline-reviews/british-airways/page/1/?sortby=post_date%3ADesc&pagesize=100), utilizando as bibliotecas BeautifulSoup e Selenium para automatizar a tarefa do Web Scraping. 
 
 Abaixo há um vídeo da coleta de apenas duas páginas do site (não quis deixá-lo muito grande). Caso queira conferir o código, pode acessar o [estudo completo](https://github.com/HenriqueWF/British_Airways).
 <p align="center">
